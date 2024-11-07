@@ -1,0 +1,7 @@
+# Ignorar carpetas de datasets y outputs
+DataSet_1/
+DataSet_2/
+outputs/
+
+# Ignorar archivo de dataset generado
+RGBLabel.csv
